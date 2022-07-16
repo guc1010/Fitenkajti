@@ -1,5 +1,7 @@
-print('庫更新器\n1：讀新詞表\n2：讀詞典')
-模式 = input('選擇模式：')
+# print('庫更新器\n1：讀新詞表\n2：讀詞典')
+# 模式 = input('選擇模式：')
+
+模式 = '1'
 
 from dukkhoh import *
 
